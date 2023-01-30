@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:swipebuttonflutter/swipablewidget.dart';
+import 'package:swipeable_button_flutter/swipablewidget.dart';
 
 /// A Button that can detect swiping movement with shimmering arrows on far end.
 /// Button that swipe and increase its width to maximum

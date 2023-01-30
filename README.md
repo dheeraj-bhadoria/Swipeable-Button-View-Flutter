@@ -20,7 +20,7 @@ With Dart:
 
 ```yaml
 
-    $ dart pub add swipebuttonflutter
+    $ dart pub add swipeable_button_flutter
 
 ```
 
@@ -28,7 +28,7 @@ With Flutter:
 
 ```yaml
 
-$ flutter pub add swipebuttonflutter
+$ flutter pub add swipeable_button_flutter
 
 ```
 
@@ -37,7 +37,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 ```yaml
 
     dependencies:
-    swipebuttonflutter: ^0.0.1
+    swipeable_button_flutter: ^0.0.2
 
 ```
 

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:swipebuttonflutter/swipebutton.dart';
+import 'package:swipeable_button_flutter/swipebutton.dart';
 
 class Example extends StatefulWidget {
   Example({Key? key, this.title}) : super(key: key);

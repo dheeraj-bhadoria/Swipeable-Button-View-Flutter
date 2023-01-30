@@ -1,8 +1,8 @@
-name: swipebuttonflutter
+name: swipeable_button_flutter
 description: Swipe Button Flutter. Animated button for swipe to action
 homepage: https://github.com/dheeraj-bhadoria/Swipeable-Button-View-Flutter
 repository: https://github.com/dheeraj-bhadoria/Swipeable-Button-View-Flutter
-version: 0.0.1
+version: 0.0.2
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
