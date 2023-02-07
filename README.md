@@ -1,6 +1,6 @@
 # Swipeable Button View Flutter
 
-Create attractive swipeable button view in flutter using few simple steps.
+Create attractive swipeable button view in flutter using few simple steps. Very attractive and very easy to use. 
 
 ![image description](https://github.com/dheeraj-bhadoria/Swipeable-Button-View-Flutter/blob/main/swipebutton.gif)
 
@@ -39,7 +39,7 @@ This will add a line like this to your package's pubspec.yaml (and run an implic
 ```yaml
 
     dependencies:
-    swipeable_button_flutter: ^0.0.2
+    swipeable_button_flutter: ^0.0.3
 
 ```
 
