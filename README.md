@@ -2,6 +2,8 @@
 
 Create attractive swipeable button view in flutter using few simple steps.
 
+![image description](https://github.com/dheeraj-bhadoria/Swipeable-Button-View-Flutter/blob/main/swipebutton.gif)
+
 
 ## Platform Support
 
